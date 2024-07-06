@@ -1,2 +1,3 @@
-echo "das ist Feature1!"
+// hier erfolgt nur eine banale Ausgabe
+echo "das ist Feature1!!!!"
 
